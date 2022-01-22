@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 /* Activity que imprime logs nos métodos de ciclo de vida */
-//teste1
+//teste1.1
 open class LogActivity : AppCompatActivity() {
     private val TAG = "ciclo_vida"
     // Nome da classe sem o pacote
