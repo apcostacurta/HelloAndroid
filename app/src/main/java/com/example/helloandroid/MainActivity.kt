@@ -10,6 +10,7 @@ import android.widget.TextView
 import com.example.helloandroid.domain.LoginService
 import com.example.helloandroid.extension.alert
 
+//Comentário de alteração 1.1
 class MainActivity : LogActivity() {
 
     private var count = 0
